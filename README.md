@@ -1,4 +1,4 @@
 # summ-news
-Abstractive News Summrization
+Abstractive News Summarization
 
 Work in progress!
