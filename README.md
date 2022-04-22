@@ -1,4 +1,4 @@
 # summ-news
-Abstractive News Summarization
+Abstractive News Summarization from scratch using Keras
 
-Work in progress!
+## CS767 Machine Learning Term Project - Spring 2022 (Boston University)
