@@ -27,7 +27,7 @@ The following preprocessing steps are performed on the content and summary text.
 - Remove short words
 </br>
 Rows for which the lengths of the content or summary are too short or too long arealso removed. Rows for which the length of the content is less than that of the summary are also dropped. </br> 
-*START* and *END* tokens are added to the beginning and end of the summary text respectively. </br>
+'START' and 'END' tokens are added to the beginning and end of the summary text respectively. </br>
 Basic exploratory data analysis is done to determine the maximum lengths to be set for the content and summary texts. 
 
 ## Model and Training
